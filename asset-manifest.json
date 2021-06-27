@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/gangster-swap/static/css/main.de7acb17.chunk.css",
-    "main.js": "/gangster-swap/static/js/main.f62b4b6f.chunk.js",
-    "main.js.map": "/gangster-swap/static/js/main.f62b4b6f.chunk.js.map",
+    "main.js": "/gangster-swap/static/js/main.6f27d7b8.chunk.js",
+    "main.js.map": "/gangster-swap/static/js/main.6f27d7b8.chunk.js.map",
     "runtime-main.js": "/gangster-swap/static/js/runtime-main.dac8cc66.js",
     "runtime-main.js.map": "/gangster-swap/static/js/runtime-main.dac8cc66.js.map",
     "static/css/2.965a2be2.chunk.css": "/gangster-swap/static/css/2.965a2be2.chunk.css",
-    "static/js/2.694a0d78.chunk.js": "/gangster-swap/static/js/2.694a0d78.chunk.js",
-    "static/js/2.694a0d78.chunk.js.map": "/gangster-swap/static/js/2.694a0d78.chunk.js.map",
+    "static/js/2.2aaa3edd.chunk.js": "/gangster-swap/static/js/2.2aaa3edd.chunk.js",
+    "static/js/2.2aaa3edd.chunk.js.map": "/gangster-swap/static/js/2.2aaa3edd.chunk.js.map",
     "index.html": "/gangster-swap/index.html",
-    "precache-manifest.65b588678f3abbb0dbe6813b1cb5c82d.js": "/gangster-swap/precache-manifest.65b588678f3abbb0dbe6813b1cb5c82d.js",
+    "precache-manifest.2a860bc7d8841adc3a13c5e9c5fc35fd.js": "/gangster-swap/precache-manifest.2a860bc7d8841adc3a13c5e9c5fc35fd.js",
     "service-worker.js": "/gangster-swap/service-worker.js",
     "static/css/2.965a2be2.chunk.css.map": "/gangster-swap/static/css/2.965a2be2.chunk.css.map",
     "static/css/main.de7acb17.chunk.css.map": "/gangster-swap/static/css/main.de7acb17.chunk.css.map",
-    "static/js/2.694a0d78.chunk.js.LICENSE.txt": "/gangster-swap/static/js/2.694a0d78.chunk.js.LICENSE.txt",
-    "static/js/main.f62b4b6f.chunk.js.LICENSE.txt": "/gangster-swap/static/js/main.f62b4b6f.chunk.js.LICENSE.txt",
+    "static/js/2.2aaa3edd.chunk.js.LICENSE.txt": "/gangster-swap/static/js/2.2aaa3edd.chunk.js.LICENSE.txt",
+    "static/js/main.6f27d7b8.chunk.js.LICENSE.txt": "/gangster-swap/static/js/main.6f27d7b8.chunk.js.LICENSE.txt",
     "static/media/ammo.png": "/gangster-swap/static/media/ammo.2254aa33.png",
     "static/media/dbank.png": "/gangster-swap/static/media/dbank.d60e0d6a.png",
     "static/media/ewt.png": "/gangster-swap/static/media/ewt.97c55617.png",
@@ -22,7 +22,7 @@
     "static/media/gangster.png": "/gangster-swap/static/media/gangster.cc2ed9f8.png",
     "static/media/gngLotto.png": "/gangster-swap/static/media/gngLotto.c8ec7766.png",
     "static/media/logo.png": "/gangster-swap/static/media/logo.9a4bb427.png",
-    "static/media/premium.png": "/gangster-swap/static/media/premium.bb5e20ec.png",
+    "static/media/App.css": "/gangster-swap/static/media/premium.bb5e20ec.png",
     "static/media/pugAmmo.png": "/gangster-swap/static/media/pugAmmo.c08648e6.png",
     "static/media/pugBnb.png": "/gangster-swap/static/media/pugBnb.d62aae50.png",
     "static/media/pugEwtt.png": "/gangster-swap/static/media/pugEwtt.0f533c13.png",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.dac8cc66.js",
     "static/css/2.965a2be2.chunk.css",
-    "static/js/2.694a0d78.chunk.js",
+    "static/js/2.2aaa3edd.chunk.js",
     "static/css/main.de7acb17.chunk.css",
-    "static/js/main.f62b4b6f.chunk.js"
+    "static/js/main.6f27d7b8.chunk.js"
   ]
 }
