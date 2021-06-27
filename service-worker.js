@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gangster-swap/precache-manifest.2a860bc7d8841adc3a13c5e9c5fc35fd.js"
+  "/gangster-swap/precache-manifest.51c6d3600a6c8b9ab81ba997abdabf43.js"
 );
 
 self.addEventListener('message', (event) => {
