@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f22df2ffba3fde82573830ffd956eb0",
+    "revision": "ec05be715f724c2b31fbe37031021230",
     "url": "/gangster-swap/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gangster-swap/static/css/2.965a2be2.chunk.css"
   },
   {
-    "revision": "c81b33dc6c047d3c64e0",
+    "revision": "036568ac9d055a522893",
     "url": "/gangster-swap/static/css/main.de7acb17.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gangster-swap/static/js/2.694a0d78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c81b33dc6c047d3c64e0",
-    "url": "/gangster-swap/static/js/main.bbc80389.chunk.js"
+    "revision": "036568ac9d055a522893",
+    "url": "/gangster-swap/static/js/main.482af357.chunk.js"
   },
   {
     "revision": "5eb88515decf12a13e06dfd27c183516",
-    "url": "/gangster-swap/static/js/main.bbc80389.chunk.js.LICENSE.txt"
+    "url": "/gangster-swap/static/js/main.482af357.chunk.js.LICENSE.txt"
   },
   {
     "revision": "f6d5e8da152bfceeab65",
